@@ -107,6 +107,7 @@ namespace MKPO1 {
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 1;
+            this.textBox1.Text = "0,1";
             // 
             // textBox2
             // 
@@ -114,6 +115,7 @@ namespace MKPO1 {
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 20);
             this.textBox2.TabIndex = 3;
+            this.textBox2.Text = "0,1";
             // 
             // label2
             // 
@@ -130,6 +132,7 @@ namespace MKPO1 {
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(100, 20);
             this.textBox3.TabIndex = 5;
+            this.textBox3.Text = "0,1";
             // 
             // label3
             // 
@@ -161,6 +164,7 @@ namespace MKPO1 {
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(100, 20);
             this.textBox4.TabIndex = 5;
+            this.textBox4.Text = "0,1";
             // 
             // label4
             // 
@@ -177,6 +181,7 @@ namespace MKPO1 {
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(100, 20);
             this.textBox5.TabIndex = 3;
+            this.textBox5.Text = "0,1";
             // 
             // label5
             // 
@@ -193,6 +198,7 @@ namespace MKPO1 {
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(100, 20);
             this.textBox6.TabIndex = 1;
+            this.textBox6.Text = "0,1";
             // 
             // label6
             // 
@@ -222,6 +228,7 @@ namespace MKPO1 {
             this.textBox8.Name = "textBox8";
             this.textBox8.Size = new System.Drawing.Size(100, 20);
             this.textBox8.TabIndex = 3;
+            this.textBox8.Text = "0,1";
             // 
             // label8
             // 
@@ -238,6 +245,7 @@ namespace MKPO1 {
             this.textBox9.Name = "textBox9";
             this.textBox9.Size = new System.Drawing.Size(100, 20);
             this.textBox9.TabIndex = 1;
+            this.textBox9.Text = "0,1";
             // 
             // label9
             // 
@@ -269,6 +277,7 @@ namespace MKPO1 {
             this.textBox7.Name = "textBox7";
             this.textBox7.Size = new System.Drawing.Size(100, 20);
             this.textBox7.TabIndex = 5;
+            this.textBox7.Text = "0,1";
             // 
             // label7
             // 
@@ -285,6 +294,7 @@ namespace MKPO1 {
             this.textBox10.Name = "textBox10";
             this.textBox10.Size = new System.Drawing.Size(100, 20);
             this.textBox10.TabIndex = 3;
+            this.textBox10.Text = "0,1";
             // 
             // label10
             // 
@@ -301,6 +311,7 @@ namespace MKPO1 {
             this.textBox11.Name = "textBox11";
             this.textBox11.Size = new System.Drawing.Size(100, 20);
             this.textBox11.TabIndex = 1;
+            this.textBox11.Text = "0,1";
             // 
             // label11
             // 
@@ -328,6 +339,7 @@ namespace MKPO1 {
             this.textBox14.Name = "textBox14";
             this.textBox14.Size = new System.Drawing.Size(100, 20);
             this.textBox14.TabIndex = 1;
+            this.textBox14.Text = "0,1";
             // 
             // label14
             // 
@@ -355,6 +367,7 @@ namespace MKPO1 {
             this.textBox12.Name = "textBox12";
             this.textBox12.Size = new System.Drawing.Size(100, 20);
             this.textBox12.TabIndex = 1;
+            this.textBox12.Text = "0,1";
             // 
             // label12
             // 
@@ -382,6 +395,7 @@ namespace MKPO1 {
             this.textBox13.Name = "textBox13";
             this.textBox13.Size = new System.Drawing.Size(100, 20);
             this.textBox13.TabIndex = 1;
+            this.textBox13.Text = "0,1";
             // 
             // label13
             // 
@@ -409,6 +423,7 @@ namespace MKPO1 {
             this.textBox15.Name = "textBox15";
             this.textBox15.Size = new System.Drawing.Size(100, 20);
             this.textBox15.TabIndex = 1;
+            this.textBox15.Text = "0,1";
             // 
             // label15
             // 
@@ -454,9 +469,11 @@ namespace MKPO1 {
             // 
             this.quality.AutoSize = true;
             this.quality.Location = new System.Drawing.Point(110, 90);
+            this.quality.MaximumSize = new System.Drawing.Size(70, 0);
             this.quality.Name = "quality";
-            this.quality.Size = new System.Drawing.Size(0, 13);
+            this.quality.Size = new System.Drawing.Size(70, 26);
             this.quality.TabIndex = 2;
+            this.quality.Text = "                         ";
             // 
             // Form1
             // 
